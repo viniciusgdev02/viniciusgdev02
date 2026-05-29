@@ -53,6 +53,8 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 <div align="center">
 
 ![WinForms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL Server Management](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white)
