@@ -55,9 +55,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusgdev02&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img 
+height="180em" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusgdev02&theme=github_dark" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgdev02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img 
+height="180em" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusgdev02&theme=github_dark" 
+/>
 
 </div>
 
