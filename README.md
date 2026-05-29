@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:0f172a&height=220&section=header&text=Vinicius%20Costa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=239120&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end+%2F+Full-stack;Especialista+em+Automa%C3%A7%C3%A3o+de+Processos;Sistemas+Corporativos+em+Produ%C3%A7%C3%A3o;Integra%C3%A7%C3%B5es+via+API+e+Processamento+em+Lote;C%23+%7C+.NET+%7C+SQL+Server+%7C+MySQL;Tecnologia+aplicada+para+resolver+problemas+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=239120&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Sistemas+que+resolvem+problemas+reais;.NET+%7C+C%23+%7C+SQL+Server+%7C+MySQL;Automa%C3%A7%C3%A3o+de+processos+e+fluxos+operacionais;Desenvolvimento+de+sistemas+corporativos)](https://git.io/typing-svg)
 
 </div>
 
