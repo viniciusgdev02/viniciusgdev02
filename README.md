@@ -51,7 +51,7 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 
 ---
 
-## 📌 Projetos em Destaque
+**## 📌 Projetos em Destaque
 
 ### 🏭 Setor Siderúrgico
 
@@ -69,6 +69,74 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 | Automação CENPROT | Integração com a API do CENPROT Nacional automatizando fluxos completos de certidão, anuências, cancelamentos e pedidos de protesto | C# · .NET · API CENPROT · SQL |
 | Envio de E-mails em Lote | Sistema de disparo de e-mails em lote com dados enriquecidos via API BIG DATA e envio automatizado via SMTP | C# · .NET · SMTP · API BIG DATA |
 | Controle de Intimações | Sistema completo para gestão do fluxo de intimações, cobrindo rota, entrega e status final | C# · .NET · SQL |
+
+---**## 📌 Projetos em Destaque
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏭 Sistema de Controle Operacional
+
+Sistema desenvolvido para gestão operacional no setor siderúrgico, utilizado em ambiente de produção para controle de fluxos internos e operações administrativas.
+
+💻 **Stack:**  
+C# · .NET · SQL Server
+
+</td>
+
+<td width="50%">
+
+### 📋 Consulta de Documentos em Lote
+
+Sistema para consulta massiva de CPF/CNPJ via API BIG DATA, incluindo validação inteligente utilizando score de compatibilidade entre documento e razão social.
+
+💻 **Stack:**  
+C# · .NET · API BIG DATA · SQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ Automação CENPROT
+
+Integração completa com a API do CENPROT Nacional automatizando pedidos de protesto, anuências, certidões e cancelamentos.
+
+💻 **Stack:**  
+C# · .NET · API CENPROT · SQL
+
+</td>
+
+<td width="50%">
+
+### 📧 Envio de E-mails em Lote
+
+Sistema de disparo automatizado de e-mails com enriquecimento de dados via API BIG DATA e envio SMTP em larga escala.
+
+💻 **Stack:**  
+C# · .NET · SMTP · API BIG DATA
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🚚 Controle de Intimações
+
+Sistema completo para gerenciamento do fluxo de intimações, cobrindo rotas, entregas, retorno operacional e status final do processo.
+
+💻 **Stack:**  
+C# · .NET · SQL Server
+
+</td>
+</tr>
+
+</table>
 
 ---
 
