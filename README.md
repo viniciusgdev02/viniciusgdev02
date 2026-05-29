@@ -51,26 +51,7 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 
 ---
 
-**## 📌 Projetos em Destaque
-
-### 🏭 Setor Siderúrgico
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| Sistema de Controle Operacional | Sistema em produção para gestão de operações no setor siderúrgico | C# · .NET · SQL |
-
----
-
-### 📋 Cartório de Protesto
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| Consulta de Documentos em Lote | Consulta de CPF/CNPJ em lote via API BIG DATA, com sistema de score para validação de compatibilidade entre documento e razão social | C# · .NET · API BIG DATA · SQL |
-| Automação CENPROT | Integração com a API do CENPROT Nacional automatizando fluxos completos de certidão, anuências, cancelamentos e pedidos de protesto | C# · .NET · API CENPROT · SQL |
-| Envio de E-mails em Lote | Sistema de disparo de e-mails em lote com dados enriquecidos via API BIG DATA e envio automatizado via SMTP | C# · .NET · SMTP · API BIG DATA |
-| Controle de Intimações | Sistema completo para gestão do fluxo de intimações, cobrindo rota, entrega e status final | C# · .NET · SQL |
-
----**## 📌 Projetos em Destaque
+## 📌 Projetos em Destaque
 
 <div align="center">
 
@@ -137,6 +118,8 @@ C# · .NET · SQL Server
 </tr>
 
 </table>
+
+</div>
 
 ---
 
