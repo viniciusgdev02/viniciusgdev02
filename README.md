@@ -133,9 +133,13 @@ C# · .NET · SQL Server
 
 ---
 
-## 💭 Dev Quote
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:239120,100:0f172a&height=2"/>
+
+### ⚡ “Software bem construído resolve problemas antes mesmo deles acontecerem.”
+
+</div>
 
 ---
 
