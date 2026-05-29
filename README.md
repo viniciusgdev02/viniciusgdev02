@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=239120&center=true&vCenter=true&width=900&lines=Full-stack+Developer;Sistemas+que+resolvem+problemas+reais;.NET+%7C+C%23+%7C+SQL+Server+%7C+MySQL;Automa%C3%A7%C3%A3o+de+processos+e+fluxos+operacionais;Desenvolvimento+de+sistemas+corporativos)](https://git.io/typing-svg)
 
-<br>
-
-![Aberto a Oportunidades](https://img.shields.io/badge/🚀%20Aberto%20a%20Oportunidades-239120?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -55,13 +52,10 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 
 <div align="center">
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![WinForms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQL Server Management](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
