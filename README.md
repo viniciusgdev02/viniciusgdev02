@@ -1,12 +1,15 @@
+```md
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:0f172a&height=220&section=header&text=Vinicius%20Costa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <pre>
 ██╗   ██╗██╗███╗   ██╗██╗ ██████╗██╗██╗   ██╗███████╗
- ██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝
- ██║   ██║██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗
- ╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
-  ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
-   ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
+██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝
+██║   ██║██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗
+╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
+ ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
 </pre>
 
 ### `> Olá, sou Vinicius Costa`
@@ -37,16 +40,10 @@
 
 ---
 
-## 🛠️ Stack
+## 💻 Tecnologias
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio,vscode" />
 </p>
 
 ---
@@ -66,6 +63,12 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 />
 
 </div>
+
+---
+
+## 📈 Atividade
+
+[![Vinicius github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusgdev02&theme=github-dark&hide_border=true)](https://github.com/viniciusgdev02)
 
 ---
 
@@ -100,6 +103,12 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 
 ---
 
+## 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/vinicius-costa-640485252">
@@ -121,3 +130,4 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 ### 💻 “Tecnologia aplicada para resolver problemas reais”
 
 </div>
+```
