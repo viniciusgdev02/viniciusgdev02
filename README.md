@@ -8,12 +8,17 @@
 
 ---
 
-🚀 Desenvolvimento de sistemas utilizados em ambiente de produção  
-⚙️ Automação de processos e otimização operacional  
-🏢 Experiência em múltiplos segmentos e fluxos operacionais  
+## 👨‍💻 Sobre mim
+
+Desenvolvedor focado em sistemas corporativos, automação de processos e soluções voltadas para operações reais.
+
+Atualmente atuando no desenvolvimento de aplicações desktop, integrações via API e automações administrativas, buscando otimizar fluxos internos e eliminar gargalos operacionais.
+
 📍 Belo Horizonte, Brasil
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:239120,100:0f172a&height=2"/>
 
 ## 🧠 Especialidades
 
@@ -36,27 +41,11 @@
 
 ---
 
-## 📊 Estatísticas
-
 <div align="center">
 
-<img 
-height="180em" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusgdev02&theme=github_dark" 
-/>
-
-<img 
-height="180em" 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusgdev02&theme=github_dark" 
-/>
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 </div>
-
----
-
-## 📈 Atividade
-
-[![Vinicius github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusgdev02&theme=github-dark&hide_border=true)](https://github.com/viniciusgdev02)
 
 ---
 
