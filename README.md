@@ -22,14 +22,18 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 
 ## 🧠 Especialidades
 
-- Automação de processos
-- Integrações via API
-- Sistemas desktop corporativos
-- Processamento em lote
-- SQL e modelagem de dados
-- Fluxos operacionais
-- Integrações SMTP
-- Sistemas administrativos internos
+<div align="center">
+
+![Automação de Processos](https://img.shields.io/badge/Automa%C3%A7%C3%A3o%20de%20Processos-239120?style=for-the-badge)
+![Integrações via API](https://img.shields.io/badge/Integra%C3%A7%C3%B5es%20via%20API-0f172a?style=for-the-badge)
+![Sistemas Desktop](https://img.shields.io/badge/Sistemas%20Desktop%20Corporativos-239120?style=for-the-badge)
+![Processamento em Lote](https://img.shields.io/badge/Processamento%20em%20Lote-0f172a?style=for-the-badge)
+![SQL e Modelagem](https://img.shields.io/badge/SQL%20e%20Modelagem%20de%20Dados-239120?style=for-the-badge)
+![Fluxos Operacionais](https://img.shields.io/badge/Fluxos%20Operacionais-0f172a?style=for-the-badge)
+![SMTP](https://img.shields.io/badge/Integra%C3%A7%C3%B5es%20SMTP-239120?style=for-the-badge)
+![Sistemas Administrativos](https://img.shields.io/badge/Sistemas%20Administrativos-0f172a?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -37,15 +41,7 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio,vscode&theme=dark&perline=7" />
-
-</div>
-
----
-
-<div align="center">
-
-<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlserver,git,github,visualstudio,vscode&theme=dark&perline=8" />
 
 </div>
 
@@ -137,7 +133,7 @@ C# · .NET · SQL Server
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:239120,100:0f172a&height=2"/>
 
-### ⚡ “Software bem construído resolve problemas antes mesmo deles acontecerem.”
+### ⚡ "Software bem construído resolve problemas antes mesmo deles acontecerem."
 
 </div>
 
@@ -160,7 +156,5 @@ C# · .NET · SQL Server
 ---
 
 <div align="center">
-
-### 💻 “Tecnologia aplicada para resolver problemas reais”
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:239120&height=120&section=footer"/>
 </div>
