@@ -41,7 +41,7 @@ Atualmente atuando no desenvolvimento de aplicações desktop, integrações via
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,sqlserver,git,github,visualstudio,vscode&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio,vscode&theme=dark&perline=7" />
 
 </div>
 
