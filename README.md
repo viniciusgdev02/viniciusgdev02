@@ -2,18 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:239120,100:0f172a&height=220&section=header&text=Vinicius%20Costa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<pre>
-██╗   ██╗██╗███╗   ██╗██╗ ██████╗██╗██╗   ██╗███████╗
-██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝
-██║   ██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗
-╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
- ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
-  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
-</pre>
-
-### `> Olá, sou Vinicius Costa`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=700&lines=Back-end+%2F+Full-stack+Developer;Sistemas+que+resolvem+problemas+reais;.NET+%7C+C%23+%7C+SQL+Server+%7C+MySQL;Automação+de+Processos+Corporativos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=239120&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end+%2F+Full-stack;Especialista+em+Automa%C3%A7%C3%A3o+de+Processos;Sistemas+Corporativos+em+Produ%C3%A7%C3%A3o;Integra%C3%A7%C3%B5es+via+API+e+Processamento+em+Lote;C%23+%7C+.NET+%7C+SQL+Server+%7C+MySQL;Tecnologia+aplicada+para+resolver+problemas+reais)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,9 +40,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusgdev02&theme=github_dark"/>
+<img 
+height="180em" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusgdev02&theme=github_dark" 
+/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusgdev02&theme=github_dark"/>
+<img 
+height="180em" 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusgdev02&theme=github_dark" 
+/>
 
 </div>
 
